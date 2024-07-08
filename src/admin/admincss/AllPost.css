@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.right-img img{
+    width: 600px;
+    border-radius: 20px;
+    margin-left: 225px;
+    margin-top: 20px;
+}
+
+.name h1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 29px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.left-text h2{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    text-align: center;
+    font-style: normal;
+}
+
+.left-text p{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    text-align: center;
+    font-style: normal;
+    margin: 10px;
+}
+
+.left-text a button{
+    text-align: center;
+    width: 150px;
+    height: 60;
+    /* margin: 10px; */
+    border-radius: 10px;
+    background-color: rgb(139, 121, 96);
+    color: #fff;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+}
+
+.left-text a button{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    text-align: center;
+    font-style: normal;
+}
+
+.butt{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px 25px;
+    cursor: pointer;
+}
+
+section{
+    margin-left: 45px;
+}
+
+.card{
+    border:  1px solid #424242;
+    border-radius: 40px;
+    margin-top: 140px;
+}
